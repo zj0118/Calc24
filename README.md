@@ -20,7 +20,7 @@
 
 ### v2版本：one thread one loop模型
 
-
+![输入图片说明](https://github.com/zj0118/Calc24/blob/master/Calc24Server%E7%A8%8B%E5%BA%8F%E6%A1%86%E6%9E%B6%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 ### 目前实现的功能：
 
 #### 1、联机游戏
